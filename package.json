@@ -1,0 +1,17 @@
+{
+  "name": "music-mood-api",
+  "version": "1.0.0",
+  "description": "assignment 1 by Louise Monungolh",
+  "license": "ISC",
+  "author": "Louise Monungolh",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.97.0",
+    "express": "^5.2.1"
+  }
+}
