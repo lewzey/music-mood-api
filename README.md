@@ -1,6 +1,6 @@
 # Music Mood API
 
-This project is a RESTful API built using 
+This project is built using 
 
 - **`Node.js`**  – runtime environment for fast, scalable server-side execution  
 - **`Express.js`**  – handles routing and HTTP requests in a clean, modular way  
